@@ -1,3 +1,10 @@
 # Data-Analyst-Project-Delhivery
-<br>
-Comprehensive data analysis of Delhivery's logistics operations. This project includes data preprocessing, statistical summaries, outlier handling, feature engineering, and extensive visualizations (correlation heatmaps, distributions, bivariate plots) to analyze actual vs. OSRM times and distances, aiming to optimize delivery efficiency
+This project focuses on analyzing a delivery/logistics dataset to uncover patterns and insights related to delivery time, distance, traffic density, and other operational factors. Using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn, the project involves:
+
+Data cleaning and preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Visualization of relationships between features such as delivery person ratings, weather conditions, and order traffic
+
+Insights into how delivery duration is influenced by key factors like city type, traffic density, and weather
